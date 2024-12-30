@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: 'Which programming language is used for styling',
+        option1: 'HTML',
+        option2: 'PYTHON' ,
+        option3: 'CSS',
+        Option4: 'JAVASCRIPT',
+        ans:3,
+    },
+    {
+        question: 'Which is not a programming language',
+        option1: 'HTML',
+        option2: 'CSS' ,
+        option3: 'JAVASCRIPT',
+        Option4: 'MONGO',
+        ans:4,
+    },
+    {
+        question: 'What is 2 + 2',
+        option1: '4',
+        option2: '22' ,
+        option3: '21',
+        Option4: '44',
+        ans:1,
+    },
+    {
+        question: 'Which is used for web apps',
+        option1: 'PHP',
+        option2: 'PYTHON' ,
+        option3: 'JAVASCRIPT',
+        Option4: 'JAVA',
+        ans:3,
+    },
+    {
+        question: 'MVC is a ____',
+        option1: 'Language',
+        option2: 'Library' ,
+        option3: 'Framework',
+        Option4: 'All',
+        ans:3,
+    },
+];
